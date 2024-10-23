@@ -1,0 +1,12 @@
+Package: helloworld
+Architecture: all
+Version: 1
+Maintainer: John Doe
+Filename: dists/stable/main/binary-amd64/helloworld.deb
+Size: 648
+MD5sum: 10e4ce94ea6ec4f95eae256bed7998f7
+SHA1: 7e5a6f920eef828671763e5b5bcc03d643234c63
+SHA256: eb0be730a0d79341a00099fe9bf8b36f6ad2d02e8cd8b6f31ead1bc846171f9c
+SHA512: 107cf82184cbc44f9f4a0ea32383482288f08c7154987d9ff7a116219b0e86ec40ccb25c7975c94064854fabc47307f646acffe86e1a7602ff868f5809abc761
+Description: hello world program
+
